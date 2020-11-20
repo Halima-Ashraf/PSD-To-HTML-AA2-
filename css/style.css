@@ -1,0 +1,24 @@
+*{margin:0px; padding: 0px;}
+body{margin: 0px; padding: 0px;}
+
+.header{background-color: #f5f8fa;}
+.header .snd h3{ margin-top: 10%; margin-left: 24%; color: #1c3354; }
+.header ul{ margin-left: -10%;}
+.header .snd ul li{list-style-type: none; display: inline-block; margin-left: 5%; margin-top: 5%;  font-size: 14px;}
+.header .snd ul li a{text-decoration: none; color: #2c303e;}
+
+.header .snd .sign{ background-color: blue; height: 10px; margin-top: 5%;height: 42px; width: 55%; border-radius: 100px;}
+.header .snd .sign li{margin-top: 12%; list-style-type: none; display: block;}
+.header .snd .sign li a{text-decoration: none; color: #2c303e;  display: block; padding: 10px 25px; }
+.header .snd .sign :hover {background-color: white; border: 1px solid #8ce3bb; border-radius: 98px;}
+
+.snd_last{background-color: #f5f8fa;}
+.snd_last .shape1{margin-top: 5%; position: absolute; margin-left: 9%;}
+.snd_last .shape2{position: absolute; margin-top: 37%;margin-left: 7%;}
+.snd_last .shape3{position: absolute; right: 0; margin-top: 50%;}
+.snd_last .shape4{position: absolute; margin-top: 40%;margin-left: 35%;}
+
+.snd_last h1{font-weight: bold; color:  #1c3354; margin-top: 30%;}
+.snd_last p{color:  #7b8491; margin-top: 5%;}
+.snd_last a{background-color: #00c867; color: white; padding:10px 25px;margin-top: 5%; font-size: 15px; border-radius: 20px; width: 25%; display: block;}
+.snd_last img{margin-top: 10%;}
