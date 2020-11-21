@@ -7,18 +7,38 @@ body{margin: 0px; padding: 0px;}
 .header .snd ul li{list-style-type: none; display: inline-block; margin-left: 5%; margin-top: 5%;  font-size: 14px;}
 .header .snd ul li a{text-decoration: none; color: #2c303e;}
 
-.header .snd .sign{ background-color: blue; height: 10px; margin-top: 5%;height: 42px; width: 55%; border-radius: 100px;}
-.header .snd .sign li{margin-top: 12%; list-style-type: none; display: block;}
-.header .snd .sign li a{text-decoration: none; color: #2c303e;  display: block; padding: 10px 25px; }
+
+.header .snd .sign a{border: 1px solid blue; border-radius: 30px; margin-top: 7%; width: 70%; text-decoration: none; color: #2c303e;  display: block; padding: 10px 25px; background-color: white; text-align: center; }
 .header .snd .sign :hover {background-color: white; border: 1px solid #8ce3bb; border-radius: 98px;}
 
 .snd_last{background-color: #f5f8fa; height: 800px;}
-.snd_last .shape1{margin-top: 5%; position: absolute; margin-left: 9%;}
+.snd_last .shape1{margin-top: 5%; position: absolute; margin-left: 13%;}
 .snd_last .shape2{position: absolute; margin-top: 37%;margin-left: 7%;}
-.snd_last .shape3{position: absolute; right: 0; margin-top: 50%;}
+.snd_last .shape3{position: absolute; right: 0; margin-top: 45%;}
+.snd_last .shape5{position: absolute; margin-top: 17%; margin-left: 0px;}
+.snd_last .shape6{position: absolute; margin-top: 1%;right: 0px;}
 .snd_last .shape4{position: absolute; margin-top: 40%;margin-left: 35%;}
 
 .snd_last h1{font-weight: bold; color:  #1c3354; margin-top: 30%;}
 .snd_last p{color:  #7b8491; margin-top: 5%;}
 .snd_last a{background-color: #00c867; color: white; padding:10px 25px;margin-top: 5%; font-size: 15px; border-radius: 20px; width: 25%; display: block;}
 .snd_last img{margin-top: 10%;}
+
+.work{height: 800px; background-color: #ffffff;}
+.work .shape7{position: absolute; margin-left: 47%; margin-top: -5%;}
+.work .shape8{position: absolute; margin-left: 27%; margin-top: 28%;}
+
+.work h1{text-align: center; font-weight: bold; margin-top: 10%;}
+.work p{text-align: center; color: #848c98; }
+.work .market img{margin-left: 10%;}
+.work .market{margin-top:20%;width: 85%;box-shadow:2px 2px 4px 4px #848c98; background-color: white;}
+.work .market h3{margin-left: 10%; font-weight: bold; margin-top: 3%; color: #1c3354;}
+.work .market p{margin-top: 5%; color: #848c98; padding-bottom: 10%; margin-left: 10%; text-align: left;}
+
+.work .software img{margin-left: 10%;}
+.work .software{margin-top:20%;width: 85%; height:85%;box-shadow:2px 2px 4px 4px #848c98; background-color: white;}
+.work .software h3{margin-left: 10%; font-weight: bold; margin-top: 3%; color: #1c3354;}
+.work .software p{margin-top: 5%; color: #848c98; margin-left: 10%; text-align: left;}
+.work .software a{color: black; margin-left: 10%; text-decoration: none;}
+
+
