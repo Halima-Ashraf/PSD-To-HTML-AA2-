@@ -24,9 +24,10 @@ body{margin: 0px; padding: 0px;}
 .snd_last a{background-color: #00c867; color: white; padding:10px 25px;margin-top: 5%; font-size: 15px; border-radius: 20px; width: 25%; display: block;}
 .snd_last img{margin-top: 10%;}
 
-.work{height: 800px; background-color: #ffffff;}
+.work{height: auto; background-color: #ffffff;position: relative;}
 .work .shape7{position: absolute; margin-left: 47%; margin-top: -5%;}
 .work .shape8{position: absolute; margin-left: 27%; margin-top: 28%;}
+.work .shape9{position: absolute; margin-left: 88%; margin-top: 75%;}
 
 .work h1{text-align: center; font-weight: bold; margin-top: 10%;}
 .work p{text-align: center; color: #848c98; }
@@ -41,4 +42,28 @@ body{margin: 0px; padding: 0px;}
 .work .software p{margin-top: 5%; color: #848c98; margin-left: 10%; text-align: left;}
 .work .software a{color: black; margin-left: 10%; text-decoration: none;}
 
+.work .easy{margin-top: 10%;}
+.work .easy .img img{margin-top: 20%; margin-left: -23%;width: 130%;}
+
+.work .easy .icon{margin-top: 30%; margin-left: 20%;}
+.work .easy .icon h1{margin-top: 5%; text-align: left;}
+.work .easy .icon p{margin-top: 5%; text-align: left;}
+.work .easy .icon a{text-decoration: none; background-color: #00c867; display: block; padding: 10px 10px; width: 35%; border-radius: 20px; text-align: center; color: white; font-size: 13px; padding-top: 5%;}
+
+
+.cloudss{height: auto; margin-top: 10%;}
+.cloudss h1{margin-top: 5%; text-align: center;color:#2b415f;}
+.cloudss p{text-align: center; color: #8d94a0;}
+
+.cloud{margin-top: 20%;}
+.cloud img{margin-left: 38%;}
+.cloud h3{text-align: center; font-weight: bold; color: #1c3354;}
+.cloud p{text-align: center;}
+
+.effort{margin-top: 15%;}
+.effort .shape10{position: absolute; margin-top: -10%;}
+.effort .effortless img{}
+.effort .effortless h1{color: #2b415f; font-weight: bold; margin-top: 5%;}
+.effort .effortless p{color:#848c98; margin-top: 2%;}
+.effort .effortless a{background-color:#00cf76; margin-top: 2%; color: white; font-size: 15px; display: block; padding: 10px 25px; width: 30%; border-radius: 20px;}
 
