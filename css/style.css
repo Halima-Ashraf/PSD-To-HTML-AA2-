@@ -67,3 +67,24 @@ body{margin: 0px; padding: 0px;}
 .effort .effortless p{color:#848c98; margin-top: 2%;}
 .effort .effortless a{background-color:#00cf76; margin-top: 2%; color: white; font-size: 15px; display: block; padding: 10px 25px; width: 30%; border-radius: 20px;}
 
+
+.choose{}
+.choose h1{text-align: center; margin-top: 10%; color:  #2b415f; }
+.choose p{text-align: center; color:#848c98;}
+
+.choose .standard{box-shadow:1px 10px 10px -7px gray; margin-bottom: 20%; margin-top: 20%;}
+
+.choose .standard img{margin-left: 30%;}
+.choose .standard h1{text-align: center;}
+.choose .standard h4{text-align: center; margin-top: 15%;}
+.choose .standard ul{ margin-top: 8%; }
+.choose .standard ul li{list-style-type: none; text-align: center;}
+.choose .standard ul li a{text-decoration: none; color: #8d94a0;}
+ .choose .standard .a{ text-align: center; margin-top: 30%; padding-bottom: 10%;}
+ .choose .standard .a a{text-decoration: none; color: #8d94a0; }
+ .choose .standard .a a:hover{color: #00c868;}
+
+ .client{margin-top: 10%;}
+ .client .img img{width: 100%; margin-left: -10%;}
+ .client{}
+ .client .name h1{font-weight: bold;}
